@@ -1,0 +1,91 @@
+ALFKI;Alfreds Futterkiste                 ;Alemanha     
+ANATR;Ana Trujillo Emparedados y helados  ;México       
+ANTON;Antonio Moreno Taquer¡a             ;México       
+AROUT;Around the Horn                     ;Reino Unido  
+BERGS;Berglunds snabbk p                  ;Suécia       
+BLAUS;Blauer See Delikatessen             ;Alemanha     
+BLONP;Blondel p‚re et fils                ;França       
+BOLID;B¢lido Comidas preparadas           ;Espanha      
+BONAP;Bon app                             ;França       
+BOTTM;Bottom-Dollar Markets               ;Canadá       
+BSBEV;B's Beverages                       ;Reino Unido  
+CACTU;Cactus Comidas para llevar          ;Argentina    
+CENTC;Centro comercial Moctezuma          ;México       
+CHOPS;Chop-suey Chinese                   ;Suiça        
+COMMI;Com‚rcio Mineiro                    ;Brasil       
+CONSH;Consolidated Holdings               ;Reino Unido  
+DRACD;Drachenblut Delikatessen            ;Alemanha     
+DUMON;Du monde entier                     ;França       
+EASTC;Eastern Connection                  ;Reino Unido  
+ERNSH;Ernst Handel                        ;µustria      
+FAMIA;Familia Arquibaldo                  ;Brasil       
+FISSA;FISSA Fabrica Inter. Salchichas S.A.;Espanha      
+FOLIG;Folies gourmandes                   ;Fran‡a       
+FOLKO;Folk och fã HB                      ;Suécia       
+FRANK;Frankenversand                      ;Alemanha     
+FRANR;France restauration                 ;Fran‡a       
+FRANS;Franchi S.p.A.                      ;Itália       
+FURIB;Furia Bacalhau e Frutos do Mar      ;Portugal     
+GALED;Galería del gastrônomo              ;Espanha      
+GODOS;Godos Cocina Típica                 ;Espanha      
+GOURL;Gourmet Lanchonetes                 ;Brasil       
+GREAL;Great Lakes Food Market             ;EUA          
+GROSR;GROSELLA-Restaurante                ;Venezuela    
+HANAR;Hanari Carnes                       ;Brasil       
+HILAA;HILARIÇN-Abastos                    ;Venezuela    
+HUNGC;Hungry Coyote Import Store          ;EUA          
+HUNGO;Hungry Owl All-Night Grocers        ;Irlanda      
+ISLAT;Island Trading                      ;Reino Unido  
+KOENE;Kíniglich Essen                     ;Alemanha     
+LACOR;La corne d'abondance                ;França       
+LAMAI;La maison d'Asie                    ;França       
+LAUGB;Laughing Bacchus Wine Cellars       ;Canad        
+LAZYK;Lazy K Kountry Store                ;EUA          
+LEHMS;Lehmanns Marktstand                 ;Alemanha     
+LETSS;Let's Stop N Shop                   ;EUA          
+LILAS;LILA-Supermercado                   ;Venezuela    
+LINOD;LINO-Delicateses                    ;Venezuela    
+LONEP;Lonesome Pine Restaurant            ;EUA          
+MAGAA;Magazzini Alimentari Riuniti        ;Itália       
+MAISD;Maison Dewey                        ;Bélgica      
+MEREP;Móre Paillarde                      ;Canadá       
+MORGK;Morgenstern Gesundkost              ;Alemanha     
+NORTS;North/South                         ;Reino Unido  
+OCEAN;Océano Atlântico Ltda.              ;Argentina    
+OLDWO;Old World Delicatessen              ;EUA          
+OTTIK;Ottilies Kíseladen                  ;Alemanha     
+PARIS;Paris spécialitís                   ;França       
+PERIC;Pericles Comidas cl sicas           ;México       
+PICCO;Piccolo und mehr                    ;áustria      
+PRINI;Princesa Isabel Vinhos              ;Portugal     
+QUEDE;Que Delícia                         ;Brasil       
+QUEEN;Queen Cozinha                       ;Brasil       
+QUICK;QUICK-Stop                          ;Alemanha     
+RANCH;Rancho grande                       ;Argentina    
+RATTC;Rattlesnake Canyon Grocery          ;EUA          
+REGGC;Reggiani Caseifici                  ;Itália       
+RICAR;Ricardo Adocicados                  ;Brasil       
+RICSU;Richter Supermarkt                  ;Suíça        
+ROMEY;Romero y tomillo                    ;Espanha      
+SANTG;Sant´ Gourmet                       ;Noruega      
+SAVEA;Save-a-lot Markets                  ;EUA          
+SEVES;Seven Seas Imports                  ;Reino Unido  
+SIMOB;Simons bistro                       ;Dinamarca    
+SPECD;Spécialitís du monde                ;França       
+SPLIR;Split Rail Beer & Ale               ;EUA          
+SUPRD;Suprímes délices                    ;Bélgica      
+THEBI;The Big Cheese                      ;EUA          
+THECR;The Cracker Box                     ;EUA          
+TOMSP;Toms Spezialit?ten                  ;Alemanha     
+TORTU;Tortuga Restaurante                 ;México       
+TRADH;Tradição Hipermercados              ;Brasil       
+TRAIH;Trail's Head Gourmet Provisioners   ;EUA          
+VAFFE;Vaffeljernet                        ;Dinamarca    
+VICTE;Victuailles en stock                ;França       
+VINET;Vins et alcools Chevalier           ;França       
+WANDK;Die Wandernde Kuh                   ;Alemanha     
+WARTH;Wartian Herkku                      ;Finlândia    
+WELLI;Wellington Importadora              ;Brasil       
+WHITC;White Clover Markets                ;EUA          
+WILMK;Wilman Kala                         ;Finlândia    
+WOLZA;Wolski IZajazd                      ;Polônia      
